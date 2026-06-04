@@ -14,8 +14,3 @@
 |  USMAP | [22.40.usmap](https://github.com/veltrixdev0/fortniteeventarchive/raw/refs/heads/main/22.40.usmap) |
 |  Date | December 3, 2022 |
 |  Pak Size | ~762 MB |
-
----
-
-> [!NOTE]
-> Keys must start with `0x` followed by 64 hex characters.
